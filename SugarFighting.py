@@ -1,6 +1,6 @@
 """ Project: Sugar Fighting Game
 
-* Please download the image and sound folders
+* The image and sound elements are in the download folders
 
 ** features:
     → animation
