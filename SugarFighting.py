@@ -10,7 +10,7 @@
 *** to be updated: level up!
     → change background/bombs/sugar enemies
     → set different difficulties
-test
+
 """
 
 import random
