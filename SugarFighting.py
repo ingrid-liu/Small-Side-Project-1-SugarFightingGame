@@ -1,5 +1,5 @@
 """ Project: Sugar Fighting Game
-test
+
 * The image and sound elements are in the download folders
 
 ** features:
