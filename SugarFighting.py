@@ -1,6 +1,6 @@
 """ Project: Sugar Fighting Game
 
-#not happy at all
+
 * The image and sound elements are in the download folders
 
 ** features:
