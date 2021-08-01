@@ -45,7 +45,7 @@ LEVEL = 1
 """try to print something on the screen"""
 font_name = pygame.font.match_font('arial')  # match a similar font in other computers
 # ↑ Once I added a font like this, the program is initializing very slow :(
-# that's why we need to waif for a few seconds. If I remove the score, the loading is fast
+# that's why we need to wait for a few seconds. If I remove the score, the loading is fast
 
 
 def draw_text(surf, text, size, x, y):
