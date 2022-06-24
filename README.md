@@ -5,8 +5,9 @@ A simple shooting game in python using pygame
 
 
 Get the resource code:
-- git clone https://github.com/summeringrid/Small-Side-Project-1-SugarFightingGame.git
+- Git clone https://github.com/summeringrid/Small-Side-Project-1-SugarFightingGame.git
 - All the image and sound files for level one of the game are included.
+- Original cartoon characters, drawn by myself!
 
 <img src = "image/demoB.gif" width="450" >
 
